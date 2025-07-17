@@ -1,4 +1,4 @@
-![cover-v5-optimized](https://github.com/langgenius/dify/assets/13230914/f9e19af5-61ba-4119-b926-d10c4c06ebab)
+![cover-v5-optimized](./images/GitHub_README_if.png)
 
 <p align="center">
   <a href="https://cloud.dify.ai">Dify Cloud</a> ·
@@ -58,11 +58,6 @@ Dify es una plataforma de desarrollo de aplicaciones de LLM de código abierto. 
 
 **1. Flujo de trabajo**: 
   Construye y prueba potentes flujos de trabajo de IA en un lienzo visual, aprovechando todas las siguientes características y más.
-
-
-  https://github.com/langgenius/dify/assets/13230914/356df23e-1604-483d-80a6-9517ece318aa
-
-
 
 **2. Soporte de modelos completo**: 
   Integración perfecta con cientos de LLMs propietarios / de código abierto de docenas de proveedores de inferencia y soluciones auto-alojadas, que cubren GPT, Mistral, Llama3 y cualquier modelo compatible con la API de OpenAI. Se puede encontrar una lista completa de proveedores de modelos admitidos [aquí](https://docs.dify.ai/getting-started/readme/model-providers).
@@ -208,6 +203,7 @@ Si desea configurar una configuración de alta disponibilidad, la comunidad prop
 - [Gráfico Helm por @magicsong](https://github.com/magicsong/ai-charts)
 - [Ficheros YAML por @Winson-030](https://github.com/Winson-030/dify-kubernetes)
 - [Ficheros YAML por @wyy-holding](https://github.com/wyy-holding/dify-k8s)
+- [🚀 ¡NUEVO! Archivos YAML (compatible con Dify v1.6.0) por @Zhoneym](https://github.com/Zhoneym/DifyAI-Kubernetes)
 
 #### Uso de Terraform para el despliegue
 
@@ -225,6 +221,15 @@ Despliegue Dify en AWS usando [CDK](https://aws.amazon.com/cdk/)
 
 ##### AWS 
 - [AWS CDK por @KevinZhao](https://github.com/aws-samples/solution-for-deploying-dify-on-aws)
+
+#### Alibaba Cloud
+
+[Alibaba Cloud Computing Nest](https://computenest.console.aliyun.com/service/instance/create/default?type=user&ServiceName=Dify%E7%A4%BE%E5%8C%BA%E7%89%88)
+
+#### Alibaba Cloud Data Management
+
+Despliega Dify en Alibaba Cloud con un solo clic con [Alibaba Cloud Data Management](https://www.alibabacloud.com/help/en/dms/dify-in-invitational-preview/)
+
 
 ## Contribuir
 
